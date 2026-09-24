@@ -5,7 +5,6 @@ A canvassing and leafletting tracker for Dunstable and Leighton Buzzard (Westmin
 This repo is a **thin deployment** — it has no local `core.js`/`styles.css` of its own; both load directly from the primary [leaflet-map](https://github.com/Daemeous/leaflet-map) repo (see that repo's README, "Shared assets", for what that means and why).
 
 Live: **https://daemeous.github.io/dunstable-leighton-buzzard/**
-| Stockton North & West | https://daemeous.github.io/stockton-north-west/ |
 
 ---
 
@@ -23,6 +22,7 @@ Live: **https://daemeous.github.io/dunstable-leighton-buzzard/**
 | Shipley + Keighley and Ilkley | https://daemeous.github.io/shipley/ |
 | Bassetlaw | https://daemeous.github.io/bassetlaw/ |
 | East Grinstead and Uckfield | https://daemeous.github.io/east-grinstead-uckfield/ |
+| Stockton North & West | https://daemeous.github.io/stockton-north-west/ |
 
 Related project — **[Pothole Watch](https://github.com/Daemeous/stafford-potholes)**, same visual style, separate Sheet/Apps Script backend.
 
