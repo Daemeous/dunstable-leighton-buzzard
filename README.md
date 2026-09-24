@@ -5,6 +5,7 @@ A canvassing and leafletting tracker for Dunstable and Leighton Buzzard (Westmin
 This repo is a **thin deployment** — it has no local `core.js`/`styles.css` of its own; both load directly from the primary [leaflet-map](https://github.com/Daemeous/leaflet-map) repo (see that repo's README, "Shared assets", for what that means and why).
 
 Live: **https://daemeous.github.io/dunstable-leighton-buzzard/**
+| Stockton North & West | https://daemeous.github.io/stockton-north-west/ |
 
 ---
 
